@@ -20,6 +20,8 @@ pnpm dev
 bun dev
 ```
 
+```bash
+
 # Env variables needed
 
 ACCESS_KEY=
@@ -39,6 +41,7 @@ PROVE_INSTANT_LINK_START_URI=
 PROVE_INSTANT_LINK_FINISH_URI=
 PROVE_URL=
 INSTANT_LINK_SESSION_TRACKING_TABLE_NAME=
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
